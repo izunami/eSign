@@ -48,6 +48,17 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
+	<string>NextDNS By Khơindvn
+
+- Lấy DNS sửa info đéo ghi nguồn Thì = 1 Con 🐶
+- Nhắc trước Làm ra được DNS thì cũng xoá được DNS :))
+
+- Chặn Thu Hồi - Không Chặn Qc
+- Chặn Thu Hồi - Có Chặn Qc
+
+- Lưu ý Khi dùng DNS
+- Không dùng Vpn ❎
+- Không tắt Nguồn IPhone ❎</string>
 	<key>PayloadDisplayName</key>
 	<string>NextDNS By Khơindvn</string>
 	<key>PayloadIdentifier</key>
